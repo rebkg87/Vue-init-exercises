@@ -1,10 +1,10 @@
 <!--Componentes*-->
 
-<!-- <template>
+<template>
     <div id="app">
     <h1>{{ message }}</h1>
 </div>
-</template>-->
+</template>
 
 <!--Directivas*-->
 
@@ -18,17 +18,16 @@
 
 <!--Metodos*-->
 
-<template>
+ <!--<template>
     <div id="app">
         <h1 v-if="isVisible">{{ message }}</h1>
         <p><input v-model="message"></p>
         <button v-on:click="textVisibility">Text Visibility</button>
     </div>
-
-</template>
+</template>-->
 
 <!--Componentes y Directivas*-->
-<!--
+
 <script>
     export default {
         name: 'MyComponents',
@@ -40,10 +39,10 @@
         }
     }
 </script>
--->
+
 
 <!--Metodos*-->
-
+<!--
 <script>
     export default {
         name: 'MyComponents',
@@ -59,4 +58,4 @@
             }
         }
     }
-</script>
+</script> -->

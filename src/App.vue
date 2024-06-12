@@ -1,8 +1,6 @@
 <template>
-  <div>
-    <img alt="Vue logo" src="./assets/logo.png">
-    <MyComponents/>
-  </div>
+  <img alt="Vue logo" src="./assets/logo.png">
+  <MyComponents/>
 </template>
 
 <script>
@@ -13,7 +11,7 @@ export default {
   components: {
     MyComponents
   }
-};
+}
 </script>
 
 <style>
