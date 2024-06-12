@@ -44,7 +44,7 @@ Para clonar y ejecutar este proyecto necesitarás [Git](https://git-scm.com) y [
 git clone https://github.com/rebkg87/Vue-init-exercises.git
 
 # Ve al repositorio clonado
-cd vue-init-exercises
+cd Vue-init-exercises
 
 # Instala las dependencias
 npm install
