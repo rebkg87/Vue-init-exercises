@@ -53,8 +53,8 @@ npm run serve
 ## Contribuir
 Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request.
 
-Haz un fork del proyecto.
-Crea una nueva rama (git checkout -b feature/nueva-feature).
-Realiza tus cambios (git commit -am 'Añadir nueva feature').
-Haz push a la rama (git push origin feature/nueva-feature).
-Abre un Pull Request.
+- Haz un fork del proyecto.
+- Crea una nueva rama (git checkout -b feature/nueva-feature).
+- Realiza tus cambios (git commit -am 'Añadir nueva feature').
+- Haz push a la rama (git push origin feature/nueva-feature).
+- Abre un Pull Request.
