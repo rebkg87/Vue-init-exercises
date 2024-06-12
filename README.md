@@ -8,10 +8,7 @@ Este repositorio contiene una serie de ejercicios diseñados para ayudar a los p
 2. [Características](#características)
 3. [Tecnologías utilizadas](#tecnologías-utilizadas)
 4. [Instalación](#instalación)
-5. [Estructura del Proyecto](#estructura-del-proyecto)
-6. [Ejercicios](#ejercicios)
 7. [Contribuir](#contribuir)
-8. [Licencia](#licencia)
 
 ## Introducción
 
@@ -51,3 +48,13 @@ npm install
 
 # Ejecuta la aplicación
 npm run serve
+
+```
+## Contribuir
+Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request.
+
+Haz un fork del proyecto.
+Crea una nueva rama (git checkout -b feature/nueva-feature).
+Realiza tus cambios (git commit -am 'Añadir nueva feature').
+Haz push a la rama (git push origin feature/nueva-feature).
+Abre un Pull Request.
